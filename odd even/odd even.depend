@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707142117 source:/home/ripper/Desktop/programming/odd even/main.c
+	<stdio.h>
+	<stdlib.h>
+
