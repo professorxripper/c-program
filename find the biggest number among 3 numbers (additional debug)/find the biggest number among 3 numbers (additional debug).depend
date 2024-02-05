@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707118305 source:/home/ripper/Desktop/programming/find the biggest number among 3 numbers (additional debug)/main.c
+	<stdio.h>
+	<stdlib.h>
+
